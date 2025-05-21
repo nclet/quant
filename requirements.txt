@@ -1,7 +1,11 @@
+--extra-index-url https://pypi.org/simple
+
 streamlit
-FinanceDataReader
 pandas
 numpy
 tensorflow
 scikit-learn
 matplotlib
+
+# 소문자로 써보기 (혹시 몰라)
+financedatareader
